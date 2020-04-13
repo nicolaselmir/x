@@ -1,0 +1,47 @@
+html{ 
+  margin: 0;
+
+}
+.input-group{
+  text-align: center;
+}
+body {
+ 
+  background-color: #6236FF !important;
+}
+.firstrow {
+margin-top: 20;
+}
+.name {
+  
+  text-align:center;
+  font-family: 'Poppins', sans-serif;
+  white-space: nowrap;
+  font-size: 32px;
+  color: #ffffff;
+}
+
+
+
+.buttontext{
+  border-radius: 41px;
+  background-color: #f7b500;
+  color: #ffffff;
+  width: 135px;
+  height: 31px;
+  margin-top: 64.83px;
+  text-align:center;
+  font-size: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+
+.ques{
+text-align: center;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: white;
+  
+}
